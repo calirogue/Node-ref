@@ -1,0 +1,7 @@
+* Node 10.3.0
+ECHMAScript
+
+1. To run:
+- node --experimental-modules index.mjs
+or
+- npm run start
